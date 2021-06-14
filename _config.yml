@@ -22,7 +22,7 @@ user:
   pic: /assets/img/yhz.JPG
   picAlt: "catbook"
   job: SJTU 2018, Computer Science
-  aboutme: Photography # comment this out if you don't need the 'about' page.
+  aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
