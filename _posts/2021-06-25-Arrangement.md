@@ -1,6 +1,6 @@
 ---
 title: Arrangement on Summer
-categories: [SJTU Study]
+categories: [SJTU_Study]
 comments: true
 ---
 
