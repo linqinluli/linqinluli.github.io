@@ -24,8 +24,8 @@ author:
   avatar           : "avatar.jpg"
   name             : "Hanzhang Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Master candidate at Shanghai Jiao Tong University"
-  location         : "Chengdu, China"
+  bio              : "Master candidate at SJTU"
+  location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "younghandson@outlook.com" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0007-6097-6952"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
