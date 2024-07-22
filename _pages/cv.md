@@ -18,13 +18,13 @@ Work experience
 ======
 * Cloud Storage Innovation Lab, Huawei Cloud, Chengdu, China, Sept. 2023 ———— Present
   * Research Intern
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  <!-- * Duties includes: Updates and improvements to template -->
+  * Supervisor: Jie Meng
 
 * China Regional Commercialization, ByteDance, Beijing, China, May 2022 ———— Sept. 2022
   * Big data development
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <!-- * Duties included: Merging pull requests -->
+  * Supervisor: None
 
   
 Skills
