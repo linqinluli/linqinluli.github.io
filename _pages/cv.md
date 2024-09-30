@@ -33,12 +33,12 @@ Working experience
 ======
 
 * Cloud Storage Innovation Lab, Huawei Cloud, Chengdu, China, Sept. 2023 ———— Present
-  
-  * Research Intern
+
+  **Research Intern**
 
 * China Regional Commercialization, ByteDance, Beijing, China, May 2022 ———— Sept. 2022
-  
-  * Big data development
+
+  **Big data development Intern**
 
 Projects
 ======
@@ -51,7 +51,7 @@ Projects
 
 * Optimization of LLM Inference Framework(Based on vLLM)
   
-  **Contributor** ,               Jan. 2024 ———— Jun. 2024
+  **Contributor**,               Jan. 2024 ———— Jun. 2024
   
   - Constructed an inference caching system based on prefix matching, dynamically managed the KV cache in the inference process, realized KV cache reuse in multi-round dialogs of the same user, and improved the inference performance.
   - Realized the disaggregation of Prefill and Decode phases in cluster scenarios to coordinate the differences in throughput between the two phases and improve the overall memory and computation utilization efficiency.
