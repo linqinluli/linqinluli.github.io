@@ -43,41 +43,43 @@ Working experience
 Projects
 ======
 
-* Memory System for Large Language Model Agents
+* LLM Agent Framework Construction and Related Researches
   
-  **Independent Research**,       Jul. 2024 ———— Present
+  **Main Contributor**,       Jul. 2024 ———— Present
   
-  * Researching the memory system for LLM agents, especially the context(including agent ”memory”, agent tools’ results, and outer knowledge) cache system
+  * Researching the system for LLM agents, especially the context (including agent ”memory”, tool results, and external knowledge) cache and position-independent KV cache system.
 
 * Optimization of LLM Inference Framework(Based on vLLM)
   
   **Contributor**,               Jan. 2024 ———— Jun. 2024
   
-  - Constructed an inference caching system based on prefix matching, dynamically managed the KV cache in the inference process, realized KV cache reuse in multi-round dialogs of the same user, and improved the inference performance.
-  - Realized the disaggregation of Prefill and Decode phases in cluster scenarios to coordinate the differences in throughput between the two phases and improve the overall memory and computation utilization efficiency.
+  - Built a prefix tree to cache KV during inference, accelerating multi-round chat, shared knowledge chat (RAG), and multi-user chat, resulting in a 22.8% reduction in inference TTFT compared to vLLM.
+  - Disaggregated the prefill and decode stages, distributing them across different GPUs for cross-cluster deployment, which
+improved overall throughput by 25% compared to vLLM.
 
 * High-bandwidth Multi-stream  Parallel Data Swap System in Memory Pool
   
   **Main Contributor**,           Sept. 2023 ———— Feb. 2024
   
-  - Designed and implemented a differentiated memory offloading mechanism for the memory pool in the data center based on the memory access patterns of different services. 
-  - Implemented a memory swap system with stream-level and path-level parallelism to enhance swap performance.
+  - Designed and implemented a service-aware memory offloading mechanism with a multi-queue structure for the memory pool in cloud computing, based on the memory access patterns of different services.
+  - Implemented a data swap subsystem with stream-level and path-level parallelism to enhance data offloading performance, achieving a 50% memory reduction with less than 3% time overhead when integrated with the existing far memory system.
 
 * Application-Aware Multi-Path Far Memory Management System 
   
   **Main Contributor**,           Jun. 2022 ———— Apr. 2023
   
-  - Designed and implemented a memory system utilizing the VM kernel separation mechanism to achieve application transparency and awareness, isolating the swap paths between different applications to achieve parallel swaps.
-  - Designed and implemented an optimization system for backend selection and parameter adjustment of swap path.
+  - Designed and implemented a memory system that leverages the VM kernel isolation mechanism to achieve application transparency and awareness, isolating swap paths between different applications to enable parallel swaps.
+  - Designed and implemented an optimization system for backend selection and swap path parameter adjustment, achieving up
+to 3.9x faster data swap performance and a 5.1x improvement in data center task throughput compared to SOTA systems.
 
 Skills
 ======
 
 **Programming Language**: C/C++, Python, SQL, Latex
 
-**Soft Skills**: Linux; Linux kernel (memory part); RDMA; Pytorch; ML basics; LLM basics; Big data basics
+**Soft Skills**: Linux; Linux kernel (memory part); RDMA; Pytorch; ML; LLM; Big data.
 
-**Language**: English (TOEFL 107: R:30, L:29, S:21, W:27)
+**Language**: English (TOEFL 109: R:29, L:30, S:22, W:28)
 
 <!-- Talks
 ======
