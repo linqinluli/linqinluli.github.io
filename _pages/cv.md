@@ -31,14 +31,17 @@ Teaching experience
 
 Working experience
 ======
+* Far data lab, remote, April. 2025 ———— Present
 
-* Cloud Storage Innovation Lab, Huawei Cloud, Chengdu, China, Sept. 2023 ———— Present
+  **Research Assistant**
+
+<!-- * Cloud Storage Innovation Lab, Chengdu, China, Sept. 2023 ———— Present
 
   **Research Intern**
 
 * China Regional Commercialization, ByteDance, Beijing, China, May 2022 ———— Sept. 2022
 
-  **Big data development Intern**
+  **Big data development Intern** -->
 
 Projects
 ======

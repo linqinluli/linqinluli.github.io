@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at Shanghai Jiao Tong University. I am honored to conduct research under the guidance of [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html). I am currently interning at Cloud Storage Innovation Lab, Huawei Cloud. I received my **Bachelor**'s degree from Shanghai Jiao Tong University in 2022. My research interests lie in memory systems, disaggregated memory, systems for machine learning, and agent systems. 
+I am an incoming PhD student at the University of Toronto, where I will be working with [Prof. Qizhen Zhang](https://qizhenzhang.me/). I received my **Bachelor's** degree in Computer Science and Technology from Shanghai Jiao Tong University in 2022, followed by my **Master's** degree in Computer Technology from the same institution in 2025, under the guidance of [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) and [Dr. Jing Wang](https://wjing6.github.io/index.html).
 
-I am actively applying for Ph.D. programs to further my research in these areas.
+My research interests include distributed systems, networking, disaggregated memory, and systems for machine learning. Currently, my work focuses on developing efficient systems for large-scale data processing.
 
-I’m not just a programmer; I’m also a hiker. Maybe we could explore the trails together.
+Beyond academia, I enjoy hiking and exploring nature trails. Feel free to reach out if you'd like to discuss research or share hiking recommendations!
